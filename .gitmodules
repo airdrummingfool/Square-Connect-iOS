@@ -1,0 +1,9 @@
+[submodule "libraries/JSONModel"]
+	path = libraries/JSONModel
+	url = https://github.com/jsonmodel/jsonmodel.git
+[submodule "libraries/AFNetworking"]
+	path = libraries/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
+[submodule "libraries/ISO8601"]
+	path = libraries/ISO8601
+	url = https://github.com/soffes/ISO8601.git
